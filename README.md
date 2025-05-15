@@ -1,2 +1,2 @@
 # SMCI Analysis & Report
-Model + Thesis justifying valuation
+Model + Thesis justifying valuation (WIP)
