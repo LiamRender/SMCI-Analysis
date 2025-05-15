@@ -1,1 +1,2 @@
-# Google-Analysis
+# SMCI Analysis & Report
+Model + Thesis justifying valuation
